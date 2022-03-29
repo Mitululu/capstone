@@ -1,0 +1,24 @@
+{
+  "name": "capstone-mongo",
+  "version": "1.0.0",
+  "description": "capstone app db",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mitululu/capstone.git"
+  },
+  "author": "Mitul Saha",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Mitululu/capstone/issues"
+  },
+  "homepage": "https://github.com/Mitululu/capstone#readme",
+  "dependencies": {
+    "express": "^4.17.3",
+    "nodemon": "^2.0.15"
+  }
+}
